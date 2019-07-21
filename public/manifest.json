@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TDC Avaliações",
+  "name": "TDC Avaliações - Lista de palestras e suas avaliações",
   "icons": [
     {
       "src": "favicon.ico",
