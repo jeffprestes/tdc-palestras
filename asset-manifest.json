@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tdc-palestras/static/css/main.65117f9f.chunk.css",
+    "main.js": "/tdc-palestras/static/js/main.f3f7d9fd.chunk.js",
+    "main.js.map": "/tdc-palestras/static/js/main.f3f7d9fd.chunk.js.map",
+    "runtime~main.js": "/tdc-palestras/static/js/runtime~main.c9c856f4.js",
+    "runtime~main.js.map": "/tdc-palestras/static/js/runtime~main.c9c856f4.js.map",
+    "static/css/2.bbef705d.chunk.css": "/tdc-palestras/static/css/2.bbef705d.chunk.css",
+    "static/js/2.9a72e1bc.chunk.js": "/tdc-palestras/static/js/2.9a72e1bc.chunk.js",
+    "static/js/2.9a72e1bc.chunk.js.map": "/tdc-palestras/static/js/2.9a72e1bc.chunk.js.map",
+    "index.html": "/tdc-palestras/index.html",
+    "precache-manifest.e79063f95bf7d8d2dc76bc13ae8c7f56.js": "/tdc-palestras/precache-manifest.e79063f95bf7d8d2dc76bc13ae8c7f56.js",
+    "service-worker.js": "/tdc-palestras/service-worker.js",
+    "static/css/2.bbef705d.chunk.css.map": "/tdc-palestras/static/css/2.bbef705d.chunk.css.map",
+    "static/css/main.65117f9f.chunk.css.map": "/tdc-palestras/static/css/main.65117f9f.chunk.css.map",
+    "static/media/bootstrap.css": "/tdc-palestras/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
