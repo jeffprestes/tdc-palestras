@@ -51,7 +51,7 @@ export default class Dados extends Component {
     return(
       <div>
         <FormBusca filtroTrilha={this.filtroTrilha} filtroPalestra={this.filtroPalestra} />
-        <div className="table-responsive">
+        <div className="tab-responsive">
           <table className="table table-striped table-condensed table-bordered table-hover">
             <thead>
               <tr>

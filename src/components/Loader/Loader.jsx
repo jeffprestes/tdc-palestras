@@ -9,7 +9,7 @@ export default class Loader extends Component {
         <div className="loader">
           &nbsp;
         </div>
-        <div>&nbsp;</div>
+        <div className="top">&nbsp;</div>
       </div>
       
     )

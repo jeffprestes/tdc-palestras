@@ -2,3 +2,7 @@
   font-weight: bold;
   color: lightblue;
 }
+
+.tab-responsive {
+  overflow-x:auto;
+}
