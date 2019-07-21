@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tdc-palestras/precache-manifest.e79063f95bf7d8d2dc76bc13ae8c7f56.js"
+  "/tdc-palestras/precache-manifest.f6ddd171f5c4f5460f446d04fab0d1e8.js"
 );
 
 self.addEventListener('message', (event) => {

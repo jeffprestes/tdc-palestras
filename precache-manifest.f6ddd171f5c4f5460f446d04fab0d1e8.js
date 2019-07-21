@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32dd7e25db8af624819b07e630e498ba",
+    "revision": "e39e8c4ead5d2807871348cf9931d1b8",
     "url": "/tdc-palestras/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tdc-palestras/static/css/2.bbef705d.chunk.css"
   },
   {
-    "revision": "cf626c531d6c20b5a1d1",
-    "url": "/tdc-palestras/static/css/main.65117f9f.chunk.css"
+    "revision": "b0335fa6397b730a5101",
+    "url": "/tdc-palestras/static/css/main.12b83d11.chunk.css"
   },
   {
     "revision": "507b62cd64540ef5f835",
     "url": "/tdc-palestras/static/js/2.9a72e1bc.chunk.js"
   },
   {
-    "revision": "cf626c531d6c20b5a1d1",
-    "url": "/tdc-palestras/static/js/main.f3f7d9fd.chunk.js"
+    "revision": "b0335fa6397b730a5101",
+    "url": "/tdc-palestras/static/js/main.af204807.chunk.js"
   },
   {
     "revision": "60b12fe14eb559333181",
